@@ -1,0 +1,2 @@
+/* Netlify / Vercel SPA redirect — send all routes back to index.html */
+/*    /esclipskincare/index.html   200

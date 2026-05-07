@@ -1,0 +1,38 @@
+.final-cta {
+  background-color: var(--color-bg-dark);
+  color: var(--color-primary);
+  text-align: center;
+  padding: 8rem 0;
+}
+
+.cta-content {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.final-cta h2 {
+  font-size: 3rem;
+  font-weight: 300;
+  margin-bottom: 1.5rem;
+}
+
+.final-cta p {
+  font-size: 1.2rem;
+  color: rgba(255,255,255,0.8);
+  margin-bottom: 3rem;
+}
+
+.cta-btn {
+  font-size: 1.2rem;
+  padding: 1.2rem 3rem;
+}
+
+@media (max-width: 768px) {
+  .final-cta h2 {
+    font-size: 2.2rem;
+  }
+  .cta-btn {
+    font-size: 1rem;
+    padding: 1rem 2rem;
+  }
+}
